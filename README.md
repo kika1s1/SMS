@@ -1,3 +1,3 @@
 
-#Hello school managment system reading
+# Hello school managment system reading
 

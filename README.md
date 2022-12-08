@@ -1,3 +1,3 @@
 
-# Hello school managment system reading
+# ALX High school managment system
 <img src = "code-snip-img/code.png">

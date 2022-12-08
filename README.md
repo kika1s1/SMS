@@ -1,11 +1,5 @@
 <html>
 <head>
-style{
-    img{
-        width: 100%;
-        text-align: center;
-    }
-}
 </head>
 <body>
 

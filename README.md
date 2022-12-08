@@ -1,10 +1,15 @@
 <html>
 <head>
-<title>code snipnet </title>
+style{
+    img{
+        width: 100%;
+        text-align: center;
+    }
+}
 </head>
 <body>
 
-#Hello school managment system reading
+<p>Hello school managment system reading</p>
 <img src="code-snip-img/code.png">
 
 </body>

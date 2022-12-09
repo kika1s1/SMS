@@ -46,7 +46,7 @@ header("location:home.php");
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Admin Panel Category  </title>
+<title>ALX ADMIN  </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Augment Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 

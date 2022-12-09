@@ -403,7 +403,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div style="border-top:1px solid rgba(69, 74, 84, 0.7)"></div>
 			<!--/down-->
 			<div class="down">
-				<a href="#"><img src="images/admin.jpg"></a>
+				<a href="#"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEBG6_MCC9T5A/profile-displayphoto-shrink_100_100/0/1663941638480?e=1675900800&v=beta&t=2XNfnchk7w1xAMrK1fKy4UqB62Kzwbk0jFjCKNltU_4" width=100, height=100></a>
 				<a href="#"><span class=" name-caret"><?php echo $student_name_display['st_fullname']; ?></span></a>
 				<p>Student</p>
 				<ul>

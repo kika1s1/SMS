@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 
 <head>
-	<title>Admin Panel Category Template </title>
+	<title>ALX ADMIN </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="Augment Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -123,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div style="border-top:1px solid rgba(69, 74, 84, 0.7)"></div>
 			<!--/down-->
 			<div class="down">
-				<a href="#"><img src="images/admin.jpg"></a>
+				<a href="#"><img src="https://media-exp1.licdn.com/dms/image/D4D03AQFkVrOQFxggog/profile-displayphoto-shrink_400_400/0/1667593601913?e=1675900800&v=beta&t=zhVV6TQc_TVQ1QBFMgpixn2vtqSislNk-PPrkr0no84" width=100, height =100></a>
 				<a href="index.php"><span class=" name-caret"><?php echo $info_display['t_fullname']; ?></span></a>
 				<p>System Administrator</p>
 				<ul>

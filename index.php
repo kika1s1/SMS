@@ -204,7 +204,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<img src="images/ab1.jpg" alt="">
 			</div>
 			<div class="wthree-services-right">
-				<img src="images/ab2.jpg" alt="">
+				<img src="https://media.istockphoto.com/id/803141126/photo/kids-showing-hands-during-a-lesson-at-an-elementary-school.jpg?s=612x612&w=0&k=20&c=3zQbkU2Ha9JZ6FFYxz6k5PNcSxqIflmGorR8yOcDsRY=" width=450, height=450 alt="">
 			</div>
 			<div class="clearfix"> </div>
 		</div>
@@ -298,12 +298,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //services -->
 <!-- Gallery -->
 <section class="portfolio-w3ls" id="gallery">
-		<h3 class="w3l-title">Our Gallery</h3>
+		<h3 class="w3l-title">Our Graduate!</h3>
 		<div class="w3layouts_header">
 			<p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
 		</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
+					<a href="graduate/1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -311,7 +311,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
+					<a href="graduate/2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -319,7 +319,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g3.jpg" class="swipebox"><img src="images/g3.jpg" class="img-responsive" alt="/">
+					<a href="graduate/3.jpg" class="swipebox"><img src="images/g3.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -327,7 +327,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g7.jpg" class="swipebox"><img src="images/g7.jpg" class="img-responsive" alt="/">
+					<a href="graduate/7.jpg" class="swipebox"><img src="images/g7.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -335,7 +335,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g5.jpg" class="swipebox"><img src="images/g5.jpg" class="img-responsive" alt="/">
+					<a href="graduate/5.jpg" class="swipebox"><img src="images/g5.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -343,7 +343,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g6.jpg" class="swipebox"><img src="images/g6.jpg" class="img-responsive" alt="/">
+					<a href="graduate/6.jpg" class="swipebox"><img src="images/g6.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -351,7 +351,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				   </a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g11.jpg" class="swipebox"><img src="images/g11.jpg" class="img-responsive" alt="/">
+					<a href="graduate/11.jpg" class="swipebox"><img src="images/g11.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -359,7 +359,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				   </a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g8.jpg" class="swipebox"><img src="images/g8.jpg" class="img-responsive" alt="/">
+					<a href="graduate/8.jpg" class="swipebox"><img src="images/g8.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -367,7 +367,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				   </a>
 				</div>
 					<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g9.jpg" class="swipebox"><img src="images/g9.jpg" class="img-responsive" alt="/">
+					<a href="graduate/9.jpg" class="swipebox"><img src="images/g9.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -375,7 +375,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g10.jpg" class="swipebox"><img src="images/g10.jpg" class="img-responsive" alt="/">
+					<a href="graduate/10.jpg" class="swipebox"><img src="images/g10.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -383,7 +383,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
+					<a href="graduate/4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
@@ -391,7 +391,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</a>
 				</div>
 				<div class="col-md-3 col-xs-3 gallery-grid gallery1">
-					<a href="images/g12.jpg" class="swipebox"><img src="images/g12.jpg" class="img-responsive" alt="/">
+					<a href="graduate/12.jpg" class="swipebox"><img src="images/g12.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 						<h4>ALX HIGH SCHOOL</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
